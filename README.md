@@ -1,13 +1,8 @@
-## 👋 ¡Hola! Soy Sebastian 
-
-
+## 👋 ¡Hi!
 
 
 ### About Me 🌍
 
-- 💻 Actualmente soy estudiante de la carrera de ingenieria en sistemas
-Poseo conocimientos de tecnologías como **JavaScript**, **Git**, **octave** ,**Sqlite** **Python** y **React**.
-- 🎯 Mis objetivos incluyen contribuir más a proyectos **open-source**.
 
 ---
 
