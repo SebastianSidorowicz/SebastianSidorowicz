@@ -1,6 +1,7 @@
 ## ¡hey you!
 
 ### About Me 
+```javascript
 const Sebastian = {
     nationality: "Argentinean",
     code: ["JavaScript", "Python"],
@@ -16,7 +17,7 @@ const Sebastian = {
     architecture: ["monolithic", "microservices", "event-driven"],
     funFact: "There are 10 types of people in the world: those who understand binary and those who don't."
 };
-
+```
 ---
 
 ### Expertise and Technologies 🔍:
