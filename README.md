@@ -1,8 +1,21 @@
-## 👋 ¡Hi!
+## ¡hey you!
 
-
-### About Me 🌍
-
+### About Me 
+const Sebastian = {
+    nationality: "Argentinean",
+    code: ["JavaScript", "Python"],
+    askMeAbout: ["web dev", "tech", "music", "cinema"],
+    technologies: {
+       frontend: ["HTML5", "CSS3", "JavaScript", "React"],
+       backEnd: {
+            javaScript: ["Node.js", "Express"],
+            python: ["Django"],
+        },
+        databases: ["SQLite", "SQL Server"],
+    },
+    architecture: ["monolithic", "microservices", "event-driven"],
+    funFact: "There are 10 types of people in the world: those who understand binary and those who don't."
+};
 
 ---
 
